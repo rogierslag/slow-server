@@ -1,6 +1,6 @@
 {
   "name": "slow-server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A slow server, to test service resilience",
   "main": "index.js",
   "scripts": {
