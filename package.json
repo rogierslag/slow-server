@@ -9,6 +9,7 @@
   "author": "Rogier Slag <rogier.slag@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.14.0"
   }
 }
